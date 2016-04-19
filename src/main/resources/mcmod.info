@@ -1,0 +1,16 @@
+[
+{
+  "modid": "wapcutil",
+  "name": "WAPC Utilities",
+  "description": "Mod made for little things to help the RPG",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Cricket"],
+  "credits": "Check out WeAllPlayCast live M-F 8pm EST at twitch.tv/weallplaycast",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
